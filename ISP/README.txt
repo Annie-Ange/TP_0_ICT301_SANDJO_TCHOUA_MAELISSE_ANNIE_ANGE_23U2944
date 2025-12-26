@@ -1,6 +1,6 @@
 # ISP – Interface Segregation Principle
 
-Nom : Sandjo Tchoua Annie Ange 
+Nom : Sandjo Tchoua Maelisse Annie Ange 
 UE : ICT301  
 
 ## Définition
