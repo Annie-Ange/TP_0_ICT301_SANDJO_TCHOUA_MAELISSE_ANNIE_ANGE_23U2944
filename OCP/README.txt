@@ -1,6 +1,6 @@
 # OCP – Open Closed Principle
 
-Nom : SANDJO TCHOUA MAELISSE  
+Nom : SANDJO TCHOUA MAELISSE  ANNIE ANGE
 UE : ICT301  
 
 ## Définition
